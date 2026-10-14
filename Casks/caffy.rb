@@ -1,6 +1,6 @@
 cask "caffy" do
-  version "1.0.0"
-  sha256 "1b601b165b357979e57b19b84304122e0d6287c60e1a472675c30a23b3ce32d5"
+  version "1.1.0"
+  sha256 "2f302d6763b608aaaa5a6b8033112dcffd6bd327e054f9b33efae5fcba47ccf7"
 
   url "https://github.com/Edmond0511/Caffy/releases/download/v#{version}/Caffy-#{version}.zip"
   name "Caffy"
